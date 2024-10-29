@@ -42,3 +42,10 @@ Syndash is a fully responsive Bootstrap 4 admin template featuring multiple dash
 ---
 ## Unlocked and Cracked By
 - [Junaid Mugloo](https://instagram.com/junaid_mugloo)
+- 
+## Orignal price of template is $12
+![Image Alt Text](https://github.com/junaidmugloo/SkyDash-Pro/blob/main/Screenshot%20(18).png)
+
+## Check From Here
+- [Skydash Admin](https://themeforest.net/item/syndash-bootstrap4-admin-template/29563789#)
+
