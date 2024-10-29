@@ -41,4 +41,4 @@ Syndash is a fully responsive Bootstrap 4 admin template featuring multiple dash
 
 ---
 ## Unlocked and Cracked By
-- [Junaid Mugloo](https://instagram.com/junaidmugloo)
+- [Junaid Mugloo](https://instagram.com/junaid_mugloo)
